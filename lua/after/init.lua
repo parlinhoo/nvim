@@ -1,0 +1,7 @@
+require("after.fugitive")
+require("after.telescope")
+require("after.kanagawa")
+require("after.treesitter")
+require("after.harpoon")
+require("after.lsp")
+require("after.nvimtree")
